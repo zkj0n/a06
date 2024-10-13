@@ -30,9 +30,4 @@ El juego continúa hasta que solo quede un jugador en pie, momento en el cual se
 - Lista de cartas descartadas en cada ronda.
 - Verificación de ganador cuando solo queda un jugador activo.
 
-## Instrucciones de Instalación
 
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/tuusuario/juego-cartas-bombas.git
